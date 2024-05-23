@@ -1,1 +1,0 @@
-ECHO a>>commits.txt
