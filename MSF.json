@@ -1,3 +1,5 @@
 {
-
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/metrics/statistics#get-the-last-year-of-commit-activity",
+  "status": "404"
 }
