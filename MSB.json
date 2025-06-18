@@ -1,5 +1,5 @@
 {
-  "message": "Not Found",
-  "documentation_url": "https://docs.github.com/rest/metrics/statistics#get-the-last-year-of-commit-activity",
-  "status": "404"
+  "message": "Bad credentials",
+  "documentation_url": "https://docs.github.com/rest",
+  "status": "401"
 }
